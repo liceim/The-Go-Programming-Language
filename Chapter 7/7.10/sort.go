@@ -1,3 +1,8 @@
+/*
+Exercise 7.10: Thesort.Interfacetype can be adapted to other uses. Write a functionIsPalindrome(s sort.Interface) boolthat reports whether the sequencesis a palindrome, 
+in other words, reversing the sequence would not change it. Assume that the elements at indicesiandjare equal if!s.Less(i, j) && !s.Less(j, i).
+*/
+
 package main
 
 import (
